@@ -1,0 +1,86 @@
+"ano","cve_municipio","municipio.x","total","municipio.y","pob_tot","tasa_homicidios"
+2015,9002,"Azcapotzalco",48,"Azcapotzalco",417668,11.4923815087582
+2015,9003,"Coyoacán",23,"Coyoacán",632512,3.63629464737428
+2015,9004,"Cuajimalpa de Morelos",9,"Cuajimalpa de Morelos",194851,4.61891393936906
+2015,9005,"Gustavo A. Madero",146,"Gustavo A. Madero",1198629,12.1805829827244
+2015,9006,"Iztacalco",21,"Iztacalco",397816,5.27882237014097
+2015,9007,"Iztapalapa",181,"Iztapalapa",1848954,9.7893187175019
+2015,9008,"La Magdalena Contreras",10,"La Magdalena Contreras",244785,4.08521763996977
+2015,9009,"Milpa Alta",10,"Milpa Alta",135272,7.39251286297238
+2015,9010,"Álvaro Obregón",64,"Álvaro Obregón",752185,8.50854510526001
+2015,9011,"Tláhuac",29,"Tláhuac",366674,7.9089327304363
+2015,9012,"Tlalpan",46,"Tlalpan",673919,6.82574612082461
+2015,9013,"Xochimilco",32,"Xochimilco",421693,7.58845890256656
+2015,9014,"Benito Juárez",23,"Benito Juárez",414761,5.54536226887292
+2015,9015,"Cuauhtémoc",116,"Cuauhtémoc",543644,21.3374929181597
+2015,9016,"Miguel Hidalgo",30,"Miguel Hidalgo",374779,8.00471744681532
+2015,9017,"Venustiano Carranza",66,"Venustiano Carranza",440592,14.9798452990522
+2015,9998,"No Especificado",0,NA,NA,NA
+2016,9002,"Azcapotzalco",30,"Azcapotzalco",415389,7.22214598845901
+2016,9003,"Coyoacán",34,"Coyoacán",630049,5.3964056763839
+2016,9004,"Cuajimalpa de Morelos",7,"Cuajimalpa de Morelos",196329,3.56544371947089
+2016,9005,"Gustavo A. Madero",152,"Gustavo A. Madero",1193647,12.7340830245458
+2016,9006,"Iztacalco",38,"Iztacalco",396794,9.57675771307026
+2016,9007,"Iztapalapa",222,"Iztapalapa",1843315,12.0435194201751
+2016,9008,"La Magdalena Contreras",14,"La Magdalena Contreras",245103,5.71188439145992
+2016,9009,"Milpa Alta",20,"Milpa Alta",136522,14.6496535356939
+2016,9010,"Álvaro Obregón",61,"Álvaro Obregón",753460,8.0959838611207
+2016,9011,"Tláhuac",35,"Tláhuac",367372,9.52712781594678
+2016,9012,"Tlalpan",39,"Tlalpan",676597,5.76414024892218
+2016,9013,"Xochimilco",39,"Xochimilco",421545,9.25168131516208
+2016,9014,"Benito Juárez",26,"Benito Juárez",418868,6.2072060887917
+2016,9015,"Cuauhtémoc",100,"Cuauhtémoc",544605,18.3619320424895
+2016,9016,"Miguel Hidalgo",48,"Miguel Hidalgo",375725,12.7753010845698
+2016,9017,"Venustiano Carranza",87,"Venustiano Carranza",438670,19.8326760434951
+2016,9998,"No Especificado",0,NA,NA,NA
+2017,9002,"Azcapotzalco",34,"Azcapotzalco",413357,8.22533548482305
+2017,9003,"Coyoacán",42,"Coyoacán",627775,6.69029508980128
+2017,9004,"Cuajimalpa de Morelos",8,"Cuajimalpa de Morelos",197629,4.04798890851039
+2017,9005,"Gustavo A. Madero",200,"Gustavo A. Madero",1189130,16.8190189466248
+2017,9006,"Iztacalco",31,"Iztacalco",395939,7.82948888591424
+2017,9007,"Iztapalapa",230,"Iztapalapa",1837496,12.5170340506864
+2017,9008,"La Magdalena Contreras",14,"La Magdalena Contreras",245355,5.70601781092702
+2017,9009,"Milpa Alta",9,"Milpa Alta",137603,6.54055507510737
+2017,9010,"Álvaro Obregón",98,"Álvaro Obregón",754581,12.9873399939834
+2017,9011,"Tláhuac",38,"Tláhuac",367810,10.3314211141622
+2017,9012,"Tlalpan",72,"Tlalpan",678903,10.605344209703
+2017,9013,"Xochimilco",37,"Xochimilco",421188,8.78467572675385
+2017,9014,"Benito Juárez",23,"Benito Juárez",422882,5.43886947186213
+2017,9015,"Cuauhtémoc",113,"Cuauhtémoc",545675,20.7082970632703
+2017,9016,"Miguel Hidalgo",46,"Miguel Hidalgo",376741,12.2099798004465
+2017,9017,"Venustiano Carranza",90,"Venustiano Carranza",437022,20.5939289097574
+2017,9998,"No Especificado",0,NA,NA,NA
+2018,9002,"Azcapotzalco",40,"Azcapotzalco",411503,9.72046376332615
+2018,9003,"Coyoacán",46,"Coyoacán",625634,7.3525415818194
+2018,9004,"Cuajimalpa de Morelos",15,"Cuajimalpa de Morelos",198647,7.55108307701601
+2018,9005,"Gustavo A. Madero",250,"Gustavo A. Madero",1184801,21.1005898880909
+2018,9006,"Iztacalco",53,"Iztacalco",395153,13.4125262872862
+2018,9007,"Iztapalapa",320,"Iztapalapa",1830835,17.4783636974386
+2018,9008,"La Magdalena Contreras",23,"La Magdalena Contreras",245445,9.37073478783434
+2018,9009,"Milpa Alta",17,"Milpa Alta",138441,12.2795992516668
+2018,9010,"Álvaro Obregón",95,"Álvaro Obregón",755299,12.5778003148422
+2018,9011,"Tláhuac",57,"Tláhuac",367814,15.4969631389779
+2018,9012,"Tlalpan",106,"Tlalpan",680617,15.57410408497
+2018,9013,"Xochimilco",69,"Xochimilco",420471,16.4101685966452
+2018,9014,"Benito Juárez",21,"Benito Juárez",426729,4.92115604985834
+2018,9015,"Cuauhtémoc",133,"Cuauhtémoc",546713,24.3272064136027
+2018,9016,"Miguel Hidalgo",54,"Miguel Hidalgo",377737,14.2956607374973
+2018,9017,"Venustiano Carranza",110,"Venustiano Carranza",435556,25.2550762703303
+2018,9998,"No Especificado",1,NA,NA,NA
+2019,9002,"Azcapotzalco",48,"Azcapotzalco",409860,11.7113160591421
+2019,9003,"Coyoacán",61,"Coyoacán",623683,9.78060970076144
+2019,9004,"Cuajimalpa de Morelos",12,"Cuajimalpa de Morelos",199380,6.01865783930184
+2019,9005,"Gustavo A. Madero",229,"Gustavo A. Madero",1180729,19.3947976207919
+2019,9006,"Iztacalco",43,"Iztacalco",394448,10.901310185373
+2019,9007,"Iztapalapa",345,"Iztapalapa",1823468,18.919992015215
+2019,9008,"La Magdalena Contreras",26,"La Magdalena Contreras",245375,10.5960264900662
+2019,9009,"Milpa Alta",13,"Milpa Alta",139035,9.35016362786349
+2019,9010,"Álvaro Obregón",129,"Álvaro Obregón",755620,17.0720732643392
+2019,9011,"Tláhuac",77,"Tláhuac",367406,20.9577415719939
+2019,9012,"Tlalpan",122,"Tlalpan",681728,17.8957003379647
+2019,9013,"Xochimilco",53,"Xochimilco",419426,12.6363172526262
+2019,9014,"Benito Juárez",21,"Benito Juárez",430354,4.87970368580285
+2019,9015,"Cuauhtémoc",122,"Cuauhtémoc",547703,22.2748460388203
+2019,9016,"Miguel Hidalgo",49,"Miguel Hidalgo",378708,12.9387285190701
+2019,9017,"Venustiano Carranza",118,"Venustiano Carranza",434290,27.1707844988372
+2019,9998,"No Especificado",0,NA,NA,NA
